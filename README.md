@@ -73,11 +73,11 @@ Thank you for following me! https://cybdetective.com
  | Name      | Link                                  | Description                                              | Price          |
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
  | Shodan    | https://developer.shodan.io           |  Search engine for Internet connected host and devices | from $59/month |
- | Netlas.io |   https://netlas-api.readthedocs.io/en/latest/            |  Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook)   |   Partly FREE       |
+ | Netlas.io | https://netlas-api.readthedocs.io/en/latest/            |  Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook)   |   Partly FREE       |
  | Fofa.so   | https://fofa.so/static_pages/api_help |  Search engine for Internet connected host and devices | ???            |
  | Censys.io | https://censys.io/api                 | Search engine for Internet connected host and devices    | Partly FREE           |
  |Hunter.how | https://hunter.how/search-api              |   Search engine for Internet connected host and devices  |  Partly FREE       |
- |Fullhunt.io |  https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
+ |Fullhunt.io | https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
 
 
 
@@ -98,7 +98,7 @@ Thank you for following me! https://cybdetective.com
 | Twillo     | https://www.twilio.com/docs/lookup/api  | Provides a way to retrieve additional information about a phone number             | Free or $0.01 per request (for caller lookup) |
 | Plivo      | https://www.plivo.com/lookup/           | Determine carrier, number type, format, and country for any phone number worldwide | from $0.04 per request                        |
 | GetContact | https://github.com/kovinevmv/getcontact | Find info about user by phone number                                               | from $6,89 in months/100 requests             |
-| Veriphone  | https://veriphone.io/                   | Phone number validation & carrier lookup                                           | 1000 requests/month FREE                                          |
+| Veriphone  | https://veriphone.io/                   | Phone number validation & carrier lookup                                           | 1000 requests/month FREE                      |
 
 
 ## Address/ZIP codes lookup
@@ -108,7 +108,7 @@ Thank you for following me! https://cybdetective.com
 | Global Address               | https://rapidapi.com/adminMelissa/api/global-address/               | Easily verify, check or lookup address                                                              | FREE                                  |
 | US Street Address            | https://smartystreets.com/docs/cloud/us-street-api                  | Validate and append data for any US postal address                                                  | FREE                                  |
 | Google Maps Geocoding API    | https://developers.google.com/maps/documentation/geocoding/overview | convert addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates | 0.005 USD per request                 |
-| Postcoder                    | https://postcoder.com/address-lookup                                | Find adress by postcode                                                                             | £130/5000 requests                    |
+| Postcoder                    | https://postcoder.com/address-lookup                                | Find address by postcode                                                                            | £130/5000 requests                    |
 | Zipcodebase                  | https://zipcodebase.com                                             | Lookup postal codes, calculate distances and much more                                              | 5000 requests FREE                    |
 | Openweathermap geocoding API | https://openweathermap.org/api/geocoding-api                        | get geographical coordinates (lat, lon) by using name of the location (city name or area name)      | 60 calls/minute 1,000,000 calls/month |
 | DistanceMatrix               | https://distancematrix.ai/product                                   | Calculate, evaluate and plan your routes                                                            | $1.25-$2 per 1000 elements            |
@@ -173,7 +173,7 @@ Thank you for following me! https://cybdetective.com
 | ------------ | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | Whois freaks | https://whoisfreaks.com/                | well-parsed and structured domain WHOIS data for all domain names, registrars, countries and TLDs since the birth of internet | $19/5000 requests          |
 | WhoisXMLApi  | https://whois.whoisxmlapi.com           | gathers a variety of domain ownership and registration data points from a comprehensive WHOIS database                        | 500 requests in month/FREE |
-| IPtoWhois    | https://www.ip2whois.com/developers-api | Get detailed info about a domain                                                                                              | 500 requests/month FREE                       |
+| IPtoWhois    | https://www.ip2whois.com/developers-api | Get detailed info about a domain                                                                                              | 500 requests/month FREE    |
  
 ## GEO IP
 
@@ -243,7 +243,7 @@ Thank you for following me! https://cybdetective.com
 | ------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | HaveIBeenPwned      | https://haveibeenpwned.com/API/v3                            | allows the list of pwned accounts (email addresses and usernames)                                                                   | $3.50 per month                               |
 | Psdmp.ws            | https://psbdmp.ws/api                                        | search in Pastebin                                                                                                                  | $9.95 per 10000 requests           |
-| LeakPeek            | https://psbdmp.ws/api                                        | searc in leaks databases                                                                                                            | $9.99 per 4 weeks unlimited access |
+| LeakPeek            | https://psbdmp.ws/api                                        | search in leaks databases                                                                                                           | $9.99 per 4 weeks unlimited access |
 | BreachDirectory.com | https://breachdirectory.com/api_documentation                      | search domain in data breaches databases                                                                                            | FREE                               |
 | LeekLookup          | https://leak-lookup.com/api                                  | search domain, email_address, fullname, ip address, phone, password, username in leaks databases                                    | 10 requests FREE                   |
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
@@ -272,7 +272,7 @@ Thank you for following me! https://cybdetective.com
 | ------------------ | ----------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------- |
 | BTC.com            | https://btc.com/btc/adapter?type=api-doc  | get information about addresses and transanctions                                     | FREE                      |
 | Blockchair         | https://blockchair.com                    | Explore data stored on 17 blockchains (BTC, ETH, Cardano, Ripple etc)                 | $0.33 - $1 per 1000 calls |
-| Bitcointabyse      | https://www.bitcoinabuse.com/api-docs     | Lookup bitcoin addresses that have been linked to criminal activity                   | FREE                      |
+| Bitcoinabuse      | https://www.bitcoinabuse.com/api-docs     | Lookup bitcoin addresses that have been linked to criminal activity                   | FREE                      |
 | Bitcoinwhoswho     | https://www.bitcoinwhoswho.com/api        | Scam reports on the Bitcoin Address                                                   | FREE                      |
 | Etherscan          | https://etherscan.io/apis                 | Ethereum explorer API                                                                 | FREE                      |
 | apilayer coinlayer | https://coinlayer.com                     | Real-time Crypto Currency Exchange Rates                                              | FREE                      |
@@ -294,7 +294,7 @@ Thank you for following me! https://cybdetective.com
   | AlienVault Open Threat Exchange (OTX) | https://otx.alienvault.com/api                                    | IP/domain/URL reputation | FREE               |
   | Phisherman                            | https://phisherman.gg                                             | IP/domain/URL reputation | FREE               |
   | URLScan.io                            | https://urlscan.io/about-api/                                     | Scan and Analyse URLs    | FREE               |
-  | Web of Thrust                         | https://support.mywot.com/hc/en-us/sections/360004477734-API-     | IP/domain/URL reputation | FREE               |
+  | Web of Trust                         | https://support.mywot.com/hc/en-us/sections/360004477734-API-     | IP/domain/URL reputation | FREE               |
   | Threat Jammer                         | https://threatjammer.com/docs/introduction-threat-jammer-user-api | IP/domain/URL reputation | ???                |
 
   
@@ -377,7 +377,7 @@ Thank you for following me! https://cybdetective.com
  | Google Trends | https://github.com/suryasev/unofficial-google-trends-api | Unofficial Google Trends API                                                  | FREE  |
  | YouTube Music | https://github.com/sigma67/ytmusicapi                    | Unofficial APi for YouTube Music                                              | FREE  |
  | Duolingo      | https://github.com/KartikTalwar/Duolingo                 | Duolingo unofficial API (can gather info about users)                         | FREE  |
- | Steam.        | https://github.com/smiley/steamapi                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
+ | Steam        | https://github.com/smiley/steamapi                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
  | Instagram     | https://github.com/ping/instagram_private_api            | Instagram Private API                                                         | FREE  |
  | Discord       | https://github.com/discordjs/discord.js                  | JavaScript library for interacting with the Discord API                       | FREE  |
  | Zhihu         | https://github.com/syaning/zhihu-api                     | FREE Unofficial API for Zhihu                                                 | FREE  |
@@ -489,12 +489,12 @@ Thank you for following me! https://cybdetective.com
  
  | Name                                                                     | Link                                                                                                                                  |
  | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-  | Convert curl commands to Python, JavaScript, PHP, R, Go, C#, Ruby, Rust, Elixir, Java, MATLAB, Dart, CFML, Ansible URI or JSON | https://curlconverter.com |
+  | Convert curl commands to Python, JavaScript, PHP, R, Go, C#, Ruby, Rust, Elixir, Java, MATLAB, Dart, CFML, Ansible URI or JSON | https://curlconverter.com/ |
   | Curl-to-PHP. Instantly convert curl commands to PHP code |https://incarnate.github.io/curl-to-php/ |
   | Curl to PHP online (Codebeatify) | https://codebeautify.org/curl-to-php-online |
   | Curl to JavaScript fetch | https://kigiri.github.io/fetch/ |
   | Curl to JavaScript fetch (Scrapingbee) | https://www.scrapingbee.com/curl-converter/javascript-fetch/ |
-  | Curl to C# converter | https://curl.olsh.me |
+  | Curl to C# converter | https://curl.olsh.me/ |
 
 
 
@@ -502,17 +502,17 @@ Thank you for following me! https://cybdetective.com
   
  | Name                                                                 | Link                              |
  | -------------------------------------------------------------------- | --------------------------------- |
- | Sheety. Create API frome GOOGLE SHEET                                | https://sheety.co/                |
- | Postman. Platform for creating your own API                          | https://www.postman.com           |
+ | Sheety. Create API from GOOGLE SHEET                                 | https://sheety.co/                |
+ | Postman. Platform for creating your own API                          | https://www.postman.com/          |
  | Reetoo. Rest API Generator                                           | https://retool.com/api-generator/ |
- | Beeceptor. Rest API mocking and intercepting in seconds (no coding). | https://beeceptor.com             |
+ | Beeceptor. Rest API mocking and intercepting in seconds (no coding). | https://beeceptor.com/            |
  
 ## Distribute your own API
   
  | Name                                                 | Link                                        |
  | ---------------------------------------------------- | ------------------------------------------- |
  | RapidAPI. Market your API for millions of developers | https://rapidapi.com/solution/api-provider/ |
- | Apilayer. API Marketplace                            | https://apilayer.com                        |
+ | Apilayer. API Marketplace                            | https://apilayer.com/                       |
  
  
  
@@ -569,6 +569,6 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 
 ## License
 
-![cc license](https://i.creativecommons.org/l/zero/1.0/88x31.png)
+![cc license](https://licensebuttons.net/l/zero/1.0/88x31.png)
 
 This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
